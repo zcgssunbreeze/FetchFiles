@@ -1,0 +1,14 @@
+############################################
+#this is a first program using github
+#author : zcg
+#create time : 2015-12-16
+############################################
+
+int main()
+{
+    int iNum;
+    int iAge;
+    int iCounter;
+
+    return 0;
+}
